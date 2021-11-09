@@ -1,3 +1,4 @@
+#node app
 
 ```
 ApplicationStop failed with exit code 1
